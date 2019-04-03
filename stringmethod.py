@@ -1,0 +1,11 @@
+a='praKhar'
+b=a.capitalize()
+print(b)
+c=a.upper()
+print(c)
+d=a.lower()
+print(d)
+e=a.title()
+print(e)
+f=a.swapcase()
+print(f)
